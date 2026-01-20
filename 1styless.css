@@ -1,0 +1,389 @@
+body{
+    background-color: rgb(27, 85, 87);
+}
+
+
+
+header{
+  font-size: 1.4rem;
+  color: white;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+body{
+    background-color: #3C0344;
+    background-size: cover;
+    
+    
+}
+
+nav{
+    background-color: rgb(5, 44, 44);
+    padding: 5px;
+    border: 3px solid violet;
+    width: 1070px;   
+    margin: 10px;
+    margin-left: 10px;
+    box-shadow: 10px 7px 9px 10px white;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+       
+}
+
+li{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    padding: 10px;
+        
+}
+
+a{
+    color: white;
+    background-color:rgb(95, 187, 187);
+    padding: 20px;
+    margin-left: 10px;
+    border: 1px solid white;
+    border-radius: 12px;
+    text-decoration: none;
+    width: 900px;
+     
+
+}
+
+
+
+a:hover{
+    border: 2px solid rgb(23, 218, 218);
+    border-radius: 4px solid red;
+    font-size: 1.2rem;
+    transition: 5s;
+    background-color: rgba(0, 0, 0, 0.164);
+    text-shadow: 14px 15px 18px rgb(98, 156, 156);
+    
+}
+
+
+#a0{
+    width: 10000px;
+     
+}
+ 
+source,video{
+    width: 1000px;
+    height: 400px;
+}
+
+#films{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+    font-size: 1.3rem;
+    margin-left: 10px;
+}
+
+
+
+
+.filmsactions{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+#pfooter{
+    background-color: white;
+}
+  
+
+
+
+@media screen and (max-width : 900px) 
+{
+    body{
+    background-color: rgb(27, 85, 87);
+    background-size:cover;
+        
+    }    
+
+nav{
+    
+    margin-top: 10px;
+    width:260px;
+    padding-right: 80px;
+    padding-left: 0px;
+    padding-top: 0px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px rgb(56, 8, 8) ;
+    margin-left: 1px;
+    margin-right: 5px;
+    font-size: 1em;
+    
+
+    
+   
+}
+
+.nava{
+    display:inline-block;
+    
+   
+    
+}
+
+
+a{
+    margin: 5px;
+    margin-left: 20px;
+    margin-right: 0px;
+    padding-left: 0px;
+    width: 230px;
+    text-align: center;
+    
+}
+
+#a1{
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    width: 230px;
+    text-align: center;
+}
+
+#lienstorrents{
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    width: 230px;
+    text-align: center;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    
+}
+
+ 
+header{
+    font-size: 10px;
+    color: white;
+    width: 350px;
+    font-size: 0.9em;
+     
+    
+}
+
+
+
+#films{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+
+
+#fichiers-ADDOHA1{
+    box-shadow: 3px 4px 4px 1px rgb(29, 66, 66);
+    width: 270px;
+    font-family: "Rubik Broken Fax", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3em;
+      
+}
+
+
+ #torrents1{
+    box-shadow: 3px 4px 4px 1px red;
+    width: 270px;
+    font-family: "Rubik Broken Fax", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3em;
+ }
+
+ #les-fichiers-addoha{
+    text-align: center;
+    font-size: 1.7em;
+    margin-left: 10px;
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   background-color: rgb(27, 85, 87);
+}
+
+
+#les-fichiers-securitex{
+    text-align: center;
+    font-size: 1.7em;
+    margin-left: 10px;
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   background-color: rgb(27, 85, 87);
+}
+#lesfichierstorrentsFilmsreligieux{
+      
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+  font-size: 2.7em;
+  text-align: center;
+ 
+
+}
+
+ 
+
+.torrentsexplications{
+    margin-top: 0px;
+    width:302px;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 0px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px red ;
+    margin-left: 10px;
+    font-size: 1.5em;
+    background-color:#35114d;
+    color: white;
+}
+
+.logiciels{
+    
+    width:300px;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px red ;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-size: 1.5em;
+    background-color:white;
+    color: white;
+    display: grid;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.Photos-PDG-SECURITEX{
+    
+    width: 300px;
+    padding-right: 20px;
+    padding-left: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px rgb(148, 228, 228) ;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-size: 1.5em;
+    background-color:white;
+    color: white;
+    display: grid;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+
+
+h2{
+     
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: 
+    "MORF" 15,
+    "SHLN" 50;
+    
+}
+
+#Cliquez-ici-pour-telecharger-le-torent{
+    font-size: 0.6em;
+    margin: 0px;
+    margin-left: 0px;
+    width: 0px;
+    text-align:center;
+    background-color:black;
+    border: 1px solid red;
+    color: white;
+    padding-left: 20px;
+ 
+
+  
+}
+
+
+
+
+#Cliquez-ici-pour-agrandir-image{
+    
+    font-size: 0.8em;
+    margin: 10px;
+    margin-right:10px ;
+    padding-right: 0px;
+    padding-left: 4px;
+    margin-left: 0px;
+    width: 310px;
+    text-align:center;
+    background-color:#0f8b8b;
+    border: 1px solid rgb(30, 122, 122);
+}
+ 
+.fusions{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+.pdg1{
+    margin-top: 1px;
+    width: 320px;
+    height: 450px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 0px;
+    padding-left:0px;
+    
+}
+
+}

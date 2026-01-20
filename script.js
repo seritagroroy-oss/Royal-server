@@ -1,0 +1,1 @@
+alert("Attention! Cette interface est reservée aux administrateurs du site car elle présente des contenus sensibles et privés.")
