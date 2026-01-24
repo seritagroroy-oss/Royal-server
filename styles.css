@@ -304,7 +304,7 @@ source,video{
 
 
 
-@media screen and (max-width : 900px) 
+@media screen and (max-width : 700px) 
 {
     body{
         background-color:#912e9e;
@@ -1301,5 +1301,6 @@ h2{
   font-size: 1.7em;
   color: white;
 }
+
 
 
